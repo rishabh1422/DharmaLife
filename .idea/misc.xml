@@ -9,8 +9,9 @@
         <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/drawable/ic_baseline_linked_camera_24.xml" value="0.1" />
         <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.1" />
         <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/layout/activity_barcode_scan.xml" value="0.10400000000000001" />
-        <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/layout/activity_capture_image.xml" value="0.1" />
+        <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/layout/activity_barcode_scan.xml" value="0.152" />
+        <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/layout/activity_bracode_information.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/layout/activity_capture_image.xml" value="0.136" />
         <entry key="..\:/Users/risha/AndroidStudioProjects/BarcodeScannerApp/app/src/main/res/layout/activity_main.xml" value="0.152" />
       </map>
     </option>

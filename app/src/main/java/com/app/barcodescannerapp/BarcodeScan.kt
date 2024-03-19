@@ -67,10 +67,11 @@ class BarcodeScan : AppCompatActivity() {
                 val barcode= detections.detectedItems
                 if(barcode.size()!=0)
                 {
-                    binding.barcode!!.post { 
+                    binding.barcode!!.post {
 
                        intentData=barcode.valueAt(0).displayValue
-                        binding.barcode.setText(intentData)
+                        binding.barcode.text="QR Code Information : "+intentData
+
                     }
                 }
 
